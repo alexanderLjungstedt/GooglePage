@@ -2,29 +2,30 @@
 <html>
 <head>
 	<title>Google | Exercise</title>
-	<link href="css/gHomePage.css" rel="stylesheet" type="test/css">
+	<link href="css/gHomePage.css" rel="stylesheet" type="text/css">
 	<meta charset="utf-8">
 </head>
 <body>
 	<header>
+		
+		<div></div>
+		<img src="images/alert.png" alt="alert">
+		<img src="images/menu.png" alt="menu">
+
 		<div>
 			<a href="#">User</a>
 			<a href="#">Gmail</a>
 			<a href="#">Images</a>
 		</div>
-		
-		<img scr="https://ssl.gstatic.com/gb/images/i1_1967ca6a.png" alt="">
-		<img scr="https://ssl.gstatic.com/gb/images/i1_1967ca6a.png" alt="">
-		<img scr="https://lh4.googleusercontent.com/-gyiSfTQ8oIQ/AAAAAAAAAAI/AAAAAAAAAAA/cI9L-Pz15KI/w48-h48-mo/photo.jpg" alt="profile">
 	</header>
 
 	<section>
 		<img src="https://www.google.se/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" alt="google">
-		<div>
+		<div id="searchContainer">
 			<input type="text" name="">
-			<img src="" alt="">
+			<img src="images/mic.png" alt="mic">
 		</div>
-		<div>
+		<div id="submit">
 			<input type="submit" name="" value="Google Search">
 			<input type="submit" name="" value="I'm Feeling Lucky">
 		</div>
