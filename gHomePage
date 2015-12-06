@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Google | Exercise</title>
+	<link href="css/gHomePage.css" rel="stylesheet" type="test/css">
+	<meta charset="utf-8">
+</head>
+<body>
+	<header>
+		<div>
+			<a href="#">User</a>
+			<a href="#">Gmail</a>
+			<a href="#">Images</a>
+		</div>
+		
+		<img scr="https://ssl.gstatic.com/gb/images/i1_1967ca6a.png" alt="">
+		<img scr="https://ssl.gstatic.com/gb/images/i1_1967ca6a.png" alt="">
+		<img scr="https://lh4.googleusercontent.com/-gyiSfTQ8oIQ/AAAAAAAAAAI/AAAAAAAAAAA/cI9L-Pz15KI/w48-h48-mo/photo.jpg" alt="profile">
+	</header>
+
+	<section>
+		<img src="https://www.google.se/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" alt="google">
+		<div>
+			<input type="text" name="">
+			<img src="" alt="">
+		</div>
+		<div>
+			<input type="submit" name="" value="Google Search">
+			<input type="submit" name="" value="I'm Feeling Lucky">
+		</div>
+		<span>Google.se offered in:<a href="#"> language</a>
+	</section>
+	<footer>
+		<div>
+			<a href="#">Advertising</a>
+			<a href="#">Business</a>
+			<a href="#">About</a>
+		</div>
+		<div>
+			<a href="#">Privacy</a>
+			<a href="#">Terms</a>
+			<a href="#">Settings</a>
+		</div>
+	</footer>
+
+</body>
+</html>
