@@ -29,7 +29,7 @@
 			<input type="submit" name="" value="Google Search">
 			<input type="submit" name="" value="I'm Feeling Lucky">
 		</div>
-		<span>Google.se offered in:<a href="#"> language</a>
+		<span>Google.se offered in:<a href="#"> language</a></span>
 	</section>
 	<footer>
 		<div>
