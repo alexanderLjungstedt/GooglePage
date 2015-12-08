@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Google | Exercise</title>
+	<link href="css/gSearchPage.css" rel="stylesheet" type="text/css">
+	<meta charset="utf-8">
+</head>
+
+<body>
+	<header>
+		<img src="images/googleBrand.png" id="brand" alt="googleBrand">
+		
+		<div id="search">
+			<input type="text" id="searchBox" name="">
+			<div>
+				<input type="submit" value="" name="">
+			</div>
+		</div>
+
+		<nav>
+			<img src="images/user.png" alt="profile">
+			<img src="images/alert.png" alt="alert">
+			<img src="images/menu.png" alt="menu">
+			<a href="#">User</a>
+		</nav>
+	</header>
+</body>
+</html>
