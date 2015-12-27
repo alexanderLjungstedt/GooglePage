@@ -23,6 +23,99 @@
 			<img src="images/menu.png" alt="menu">
 			<a href="#">User</a>
 		</nav>
+		
 	</header>
+
+		<div id="options">
+			<ul>
+				<li><a href="#">All</a></li>
+				<li><a href="#">Images</a></li>
+				<li><a href="#">Videos</a></li>
+				<li><a href="#">Maps</a></li>
+				<li><a href="#">News</a></li>
+				<li><a href="#">More</a></li>
+				<li><a href="#">Search tools</a></li>
+			</ul>
+
+			<div id="rightOptions">
+
+			<a href="#"></a>			
+			<a href="#"></a>			
+			<a href="#"></a>			
+
+			</div>
+		</div>
+
+<section id="searchResultsHolder">
+	
+
+	<div class="searchResults">
+		<a href="#">Lorem ipsum dolor sit amet</a>
+		<span>www.website.com</span>
+		<div>
+		<span>
+			Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo
+		 </span>
+		</div>
+	</div>
+	<div class="searchResults">
+		<a href="#">Lorem ipsum dolor sit amet</a>
+		<span>www.website.com</span>
+		<div>
+		<span>
+			Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo
+		 </span>
+		</div>
+	</div>
+	<div class="searchResults">
+		<a href="#">Lorem ipsum dolor sit amet</a>
+		<span>www.website.com</span>
+		<div>
+		<span>
+			Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo
+		 </span>
+		</div>
+	</div>
+	<div class="searchResults">
+		<a href="#">Lorem ipsum dolor sit amet</a>
+		<span>www.website.com</span>
+		<div>
+		<span>
+			Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo
+		 </span>
+		</div>
+	</div>
+	<div class="searchResults">
+		<a href="#">Lorem ipsum dolor sit amet</a>
+		<span>www.website.com</span>
+		<div>
+		<span>
+			Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo
+		 </span>
+		</div>
+	</div>
+	<div class="searchResults">
+		<a href="#">Lorem ipsum dolor sit amet</a>
+		<span>www.website.com</span>
+		<div>
+		<span>
+			Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo
+		 </span>
+		</div>
+	</div>
+</section>
+
+
+<footer>
+	<div class="text">
+		<div></div> Location - From your Internet address - <a href="#"> Use precise location - Learn more</a>
+	</div>
+	<div class="text">
+		<a href="#">Help</a>
+		<a href="#">Send Feedback</a>
+		<a href="#">Privacy</a>
+		<a href="#">Terms</a>
+	</div>
+</footer>
 </body>
 </html>
