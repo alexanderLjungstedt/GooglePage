@@ -116,10 +116,6 @@ li:first-child a {
 }
 /* Footer */
 footer {
-	position:absolute;
-	bottom:0;
-	left:0;
-	right:0;
 	padding: 18px 135px; 
 	width:100%;
 	background:#f2f2f2;
@@ -144,4 +140,4 @@ footer div div {
 
 footer div a {
 	color:#777;
-	
+}	
